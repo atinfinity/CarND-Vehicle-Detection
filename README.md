@@ -32,6 +32,7 @@ Some example images for testing your pipeline on single frames are located in th
 
 **If you're feeling ambitious** (also totally optional though), don't stop there!  We encourage you to go out and take video of your own, and show us how you would implement this project on a new video!
 
-## How to write a README
-A well written README file can enhance your project and portfolio.  Develop your abilities to create professional README files by completing [this free course](https://www.udacity.com/course/writing-readmes--ud777).
-
+## Materials
+- [train_svm.ipynb](https://github.com/atinfinity/CarND-Vehicle-Detection/blob/master/train_svm.ipynb)
+- [detect_vihicle.ipynb](https://github.com/atinfinity/CarND-Vehicle-Detection/blob/master/detect_vihicle.ipynb)
+- [writeup.md](https://github.com/atinfinity/CarND-Vehicle-Detection/blob/master/writeup.md)
