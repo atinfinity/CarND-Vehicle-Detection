@@ -2,13 +2,6 @@ import numpy as np
 import cv2
 from skimage.feature import hog
 
-'''
-from keras.models import Sequential
-from keras.layers import Dense, Dropout, Flatten, Lambda, ELU, Activation
-from keras.layers.convolutional import Convolution2D, MaxPooling2D, ZeroPadding2D
-from keras.optimizers import SGD, Adam
-'''
-
 # Create thresholded binary image
 def makeGrayImg(img, mask=None, clrspaceOrigin='BGR', colorspace='RGB', useChannel=0):
     '''
