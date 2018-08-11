@@ -33,6 +33,14 @@ Some example images for testing your pipeline on single frames are located in th
 **If you're feeling ambitious** (also totally optional though), don't stop there!  We encourage you to go out and take video of your own, and show us how you would implement this project on a new video!
 
 ## Materials
+### Script
+- [visualize_hog.ipynb](https://github.com/atinfinity/CarND-Vehicle-Detection/blob/master/visualize_hog.ipynb)
 - [train_svm.ipynb](https://github.com/atinfinity/CarND-Vehicle-Detection/blob/master/train_svm.ipynb)
 - [detect_vihicle.ipynb](https://github.com/atinfinity/CarND-Vehicle-Detection/blob/master/detect_vihicle.ipynb)
+
+### Output Videos
+- [test_video.mp4](https://github.com/atinfinity/CarND-Vehicle-Detection/blob/master/output_images/test_video.mp4)
+- [project_video.mp4](https://github.com/atinfinity/CarND-Vehicle-Detection/blob/master/output_images/project_video.mp4)
+
+### Report
 - [writeup.md](https://github.com/atinfinity/CarND-Vehicle-Detection/blob/master/writeup.md)
